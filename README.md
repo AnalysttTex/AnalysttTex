@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnalysttTex
 - 👀 I’m interested in anything and everything regarding data analysis. I am adequately efficient with Excel, Tableau, Sql and Power Bi
 - 🌱 I’m currently learning the depths of data wrangling with sql and python.
-- 💞️ I’m looking to collaborate on public datasets relating to healthcare and sports.
+- 💞️ I’m looking to collaborate on public datasets on any topic or sector.
 - 📫 You can reach me on X(Twitter)- @nxtbigthing8
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a freelance writer.
